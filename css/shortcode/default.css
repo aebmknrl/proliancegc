@@ -892,7 +892,7 @@ textarea:focus {
 .bg-opacity-black-60:before {  background: rgba(0, 0, 0, 0.6);}
 .bg-opacity-black-70:before {  background: rgba(0, 0, 0, 0.7);}
 .bg-opacity-black-80:before {  background: rgba(0, 0, 0, 0.8);}
-.bg-opacity-black-90:before {  background: rgba(0, 0, 0, 0.9);}
+.bg-opacity-black-90:before {  background: rgba(14, 38, 45, 0.9);}
 
 .bg-opacity-white-10:before {  background: rgba(255, 255, 255, 0.1);}
 .bg-opacity-white-20:before {  background: rgba(255, 255, 255, 0.2);}

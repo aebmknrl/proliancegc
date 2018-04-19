@@ -12,3 +12,5 @@ Note: This is the file where you can add your custom styles to change the look o
 /* ----------------------------------------------------
 	You can put your custom css code here: 
 -------------------------------------------------------*/
+
+.bg-opacity-blue-90:before {  background: rgba(13, 36, 43, 0.9);}
