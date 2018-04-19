@@ -11,9 +11,10 @@
 }
 
 .proliance-quote {
-    color: #3e9fbb;
+    color: #3e9eba;
     margin-top: -15px;
     margin-bottom: 5px;
+    font-weight: 300;
 }
 
 /*company-info*/
