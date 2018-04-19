@@ -10,6 +10,12 @@
   padding: 13px 0;
 }
 
+.proliance-quote {
+    color: #3e9fbb;
+    margin-top: -15px;
+    margin-bottom: 5px;
+}
+
 /*company-info*/
 .company-info {
   padding: 39px 0;
