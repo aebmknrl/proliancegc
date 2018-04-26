@@ -759,6 +759,10 @@
 .bread-bg-1 {
     background: rgba(0, 0, 0, 0) url("images/bg/5.jpg") no-repeat scroll 0 0 / cover;
 }
+.roofing-services-bg {
+    background: rgba(0, 0, 0, 0) url("images/projects/roofing/roofing-services.jpg") no-repeat scroll 0 0 / cover;
+}
+
 .breadcrumbs {} .breadcrumbs-title {
     color: #fff;
     font-size: 40px;

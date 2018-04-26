@@ -14,3 +14,19 @@ Note: This is the file where you can add your custom styles to change the look o
 -------------------------------------------------------*/
 
 .bg-opacity-blue-90:before {  background: rgba(13, 36, 43, 0.9);}
+
+.project-description {
+    margin-top: 20px;
+}
+
+.project-description .about-sheltek-info {
+    margin-left: 30px;
+}
+
+.project-title {
+    margin-bottom: 20px;
+}
+
+.project-before-after-text {
+    color: #55a9c8;
+}
